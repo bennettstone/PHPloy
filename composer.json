@@ -18,7 +18,7 @@
             "type": "vcs", 
             "url": "https://github.com/banago/Bridge.git"
         }
-    ]
+    ], 
     "require-dev": {},
     "autoload": {
         "psr-4": {
