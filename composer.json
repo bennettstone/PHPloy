@@ -10,7 +10,7 @@
         }
     ],   
     "require": {
-        "banago/bridge": "dev-master",
+        "banago/bridge": "1.0.10", 
         "jakeasmith/http_build_url": "dev-master"
     },
     "repositories": [
