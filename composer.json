@@ -10,9 +10,15 @@
         }
     ],   
     "require": {
-        "banago/bridge": "~1.0.6",
+        "banago/bridge": "dev-master",
         "jakeasmith/http_build_url": "dev-master"
     },
+    "repositories": [
+        {
+            "type": "vcs", 
+            "url": "https://github.com/banago/Bridge.git"
+        }
+    ]
     "require-dev": {},
     "autoload": {
         "psr-4": {
